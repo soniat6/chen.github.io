@@ -1,0 +1,28 @@
+html {
+  font-size: 10px; /* px means 'pixels': the base font size is now 10 pixels high  */
+  font-family: 'Quicksand', sans-serif;
+  background-color:#312926;
+}
+h1 {
+  font-size: 60px;
+  text-align: center;
+  margin: 0;
+  padding: 20px 0;
+  color: #312926;
+}
+img {
+  display: block;
+  margin: 0 auto;
+}
+p, li {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 1px;
+}
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #ECE1CB;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+}
